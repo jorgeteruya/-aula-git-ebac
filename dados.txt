@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Jorge 
+-Profissão: QA
+-Cidade: São Paulo
+-O que faz nas horas vaga: Academia
+-Feedback sobre o curso Qualidade de Software: Excelente 
+-Feedback sobre a plataforma de estudo da EBAC: já era bom, após a atualização da interface ficou ainda melhor.
+
+Obrigado!!!
+
+
